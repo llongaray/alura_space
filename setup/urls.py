@@ -1,8 +1,7 @@
 from django.contrib import admin
-from django.urls import path,include
-
+from django.urls import path, include
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('',  include('galeria.urls')),  # Remova a barra inicial aqui
+    path('', include('galeria.urls')),
 ]
