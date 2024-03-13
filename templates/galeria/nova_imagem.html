@@ -1,6 +1,7 @@
 {% extends 'shared/base.html' %}
 {% load static %}
 {% block content %}
+
             <section class="galeria" style="margin-left: 5em">
                 <form action="{% url 'login' %}" method="POST">
                     {% csrf_token %}
@@ -19,5 +20,6 @@
             </section>
         </main>
     </div>
-    {% endblock %}
+</body>
 
+{% endblock %}

@@ -1,0 +1,362 @@
+resolva esse problema, segue a lista de caminhas do projeto: ".env
+.gitignore
+db.sqlite3
+list.py
+lista_de_arquivos2.txt
+manage.py
+requirements.txt
+apps
+media
+setup
+static
+templates
+apps\galeria
+apps\usuarios
+apps\galeria\admin.py
+apps\galeria\apps.py
+apps\galeria\models.py
+apps\galeria\tests.py
+apps\galeria\urls.py
+apps\galeria\views.py
+apps\galeria\__init__.py
+apps\galeria\migrations
+apps\galeria\__pycache__
+apps\galeria\migrations\0001_initial.py
+apps\galeria\migrations\0002_fotografia_categoria.py
+apps\galeria\migrations\0003_fotografia_publicada.py
+apps\galeria\migrations\0004_fotografia_data_hora.py
+apps\galeria\migrations\0005_alter_fotografia_foto.py
+apps\galeria\migrations\0006_fotografia_usuario.py
+apps\galeria\migrations\__init__.py
+apps\galeria\migrations\__pycache__
+apps\galeria\migrations\__pycache__\0001_initial.cpython-312.pyc
+apps\galeria\migrations\__pycache__\0002_fotografia_categoria.cpython-312.pyc
+apps\galeria\migrations\__pycache__\0003_fotografia_publicada.cpython-312.pyc
+apps\galeria\migrations\__pycache__\0004_fotografia_data_hora.cpython-312.pyc
+apps\galeria\migrations\__pycache__\0005_alter_fotografia_foto.cpython-312.pyc
+apps\galeria\migrations\__pycache__\0006_fotografia_usuario.cpython-312.pyc
+apps\galeria\migrations\__pycache__\__init__.cpython-312.pyc
+apps\galeria\__pycache__\admin.cpython-312.pyc
+apps\galeria\__pycache__\apps.cpython-312.pyc
+apps\galeria\__pycache__\models.cpython-312.pyc
+apps\galeria\__pycache__\urls.cpython-312.pyc
+apps\galeria\__pycache__\views.cpython-312.pyc
+apps\galeria\__pycache__\__init__.cpython-312.pyc
+apps\usuarios\admin.py
+apps\usuarios\apps.py
+apps\usuarios\forms.py
+apps\usuarios\models.py
+apps\usuarios\tests.py
+apps\usuarios\urls.py
+apps\usuarios\views.py
+apps\usuarios\__init__.py
+apps\usuarios\migrations
+apps\usuarios\__pycache__
+apps\usuarios\migrations\__init__.py
+apps\usuarios\migrations\__pycache__
+apps\usuarios\migrations\__pycache__\__init__.cpython-312.pyc
+apps\usuarios\__pycache__\admin.cpython-312.pyc
+apps\usuarios\__pycache__\apps.cpython-312.pyc
+apps\usuarios\__pycache__\forms.cpython-312.pyc
+apps\usuarios\__pycache__\models.cpython-312.pyc
+apps\usuarios\__pycache__\urls.cpython-312.pyc
+apps\usuarios\__pycache__\views.cpython-312.pyc
+apps\usuarios\__pycache__\__init__.cpython-312.pyc
+media\fotos
+media\fotos\2024
+media\fotos\2024\03
+media\fotos\2024\03\11
+media\fotos\2024\03\11\carina-nebula.png
+media\fotos\2024\03\11\carina-nebula_zhHSZ4m.png
+media\fotos\2024\03\11\hubble_ngc1079.jpg
+media\fotos\2024\03\11\potw1636a-jpg.webp
+setup\.DS_Store
+setup\asgi.py
+setup\settings.py
+setup\urls.py
+setup\wsgi.py
+setup\__init__.py
+setup\static
+setup\__pycache__
+setup\static\assets
+setup\static\styles
+setup\static\assets\favicon
+setup\static\assets\imagens
+setup\static\assets\logo
+setup\static\assets\�cones
+setup\static\assets\favicon\Favicon 48px 1.png
+setup\static\assets\favicon\Favicon 48px 2.png
+setup\static\assets\favicon\Favicon 64px 1.png
+setup\static\assets\favicon\Favicon 64px 2.png
+setup\static\assets\favicon\Favicon 96px 1.png
+setup\static\assets\favicon\Favicon 96px 2.png
+setup\static\assets\imagens\Banner(2).png
+setup\static\assets\imagens\Modal.png
+setup\static\assets\imagens\galeria
+setup\static\assets\imagens\populares
+setup\static\assets\imagens\galeria\carina-nebula.png
+setup\static\assets\imagens\galeria\hubble_ngc1079.jpg
+setup\static\assets\imagens\galeria\not-found.png
+setup\static\assets\imagens\populares\Foto 1.png
+setup\static\assets\imagens\populares\Foto 2.png
+setup\static\assets\imagens\populares\Foto 3.png
+setup\static\assets\imagens\populares\Foto 4.png
+setup\static\assets\imagens\populares\Foto 5.png
+setup\static\assets\logo\Logo(2).png
+setup\static\assets\�cones\1x
+setup\static\assets\�cones\2x
+setup\static\assets\�cones\1x\facebook.png
+setup\static\assets\�cones\1x\favorite_outline.png
+setup\static\assets\�cones\1x\Home - ativo.png
+setup\static\assets\�cones\1x\Home - inativo.png
+setup\static\assets\�cones\1x\instagram.png
+setup\static\assets\�cones\1x\Mais curtidas - ativo.png
+setup\static\assets\�cones\1x\Mais curtidas - inativo.png
+setup\static\assets\�cones\1x\Mais vistas - ativo.png
+setup\static\assets\�cones\1x\Mais vistas - inativo.png
+setup\static\assets\�cones\1x\Novas - ativo.png
+setup\static\assets\�cones\1x\Novas - inativo.png
+setup\static\assets\�cones\1x\open_in_full.png
+setup\static\assets\�cones\1x\search.png
+setup\static\assets\�cones\1x\Surpreenda-me - ativo.png
+setup\static\assets\�cones\1x\Surpreenda-me - inativo.png
+setup\static\assets\�cones\1x\twitter.png
+setup\static\assets\�cones\2x\facebook@2x.png
+setup\static\assets\�cones\2x\favorite_outline.png
+setup\static\assets\�cones\2x\Home - ativo.png
+setup\static\assets\�cones\2x\Home - inativo.png
+setup\static\assets\�cones\2x\instagram@2x.png
+setup\static\assets\�cones\2x\Mais curtidas - ativo.png
+setup\static\assets\�cones\2x\Mais curtidas - inativo.png
+setup\static\assets\�cones\2x\Mais vistas - ativo.png
+setup\static\assets\�cones\2x\Mais vistas - inativo.png
+setup\static\assets\�cones\2x\Novas - ativo.png
+setup\static\assets\�cones\2x\Novas - inativo.png
+setup\static\assets\�cones\2x\open_in_full.png
+setup\static\assets\�cones\2x\search.png
+setup\static\assets\�cones\2x\Surpreenda-me - ativo.png
+setup\static\assets\�cones\2x\Surpreenda-me - inativo.png
+setup\static\assets\�cones\2x\twitter@2x.png
+setup\static\styles\style.css
+setup\__pycache__\settings.cpython-312.pyc
+setup\__pycache__\urls.cpython-312.pyc
+setup\__pycache__\wsgi.cpython-312.pyc
+setup\__pycache__\__init__.cpython-312.pyc
+static\admin
+static\assets
+static\styles
+static\admin\css
+static\admin\fonts
+static\admin\img
+static\admin\js
+static\admin\css\autocomplete.css
+static\admin\css\base.css
+static\admin\css\changelists.css
+static\admin\css\dark_mode.css
+static\admin\css\dashboard.css
+static\admin\css\fonts.css
+static\admin\css\forms.css
+static\admin\css\login.css
+static\admin\css\nav_sidebar.css
+static\admin\css\responsive.css
+static\admin\css\responsive_rtl.css
+static\admin\css\rtl.css
+static\admin\css\widgets.css
+static\admin\css\vendor
+static\admin\css\vendor\select2
+static\admin\css\vendor\select2\LICENSE-SELECT2.md
+static\admin\css\vendor\select2\select2.css
+static\admin\css\vendor\select2\select2.min.css
+static\admin\fonts\LICENSE.txt
+static\admin\fonts\README.txt
+static\admin\fonts\Roboto-Bold-webfont.woff
+static\admin\fonts\Roboto-Light-webfont.woff
+static\admin\fonts\Roboto-Regular-webfont.woff
+static\admin\img\calendar-icons.svg
+static\admin\img\icon-addlink.svg
+static\admin\img\icon-alert.svg
+static\admin\img\icon-calendar.svg
+static\admin\img\icon-changelink.svg
+static\admin\img\icon-clock.svg
+static\admin\img\icon-deletelink.svg
+static\admin\img\icon-hidelink.svg
+static\admin\img\icon-no.svg
+static\admin\img\icon-unknown-alt.svg
+static\admin\img\icon-unknown.svg
+static\admin\img\icon-viewlink.svg
+static\admin\img\icon-yes.svg
+static\admin\img\inline-delete.svg
+static\admin\img\LICENSE
+static\admin\img\README.txt
+static\admin\img\search.svg
+static\admin\img\selector-icons.svg
+static\admin\img\sorting-icons.svg
+static\admin\img\tooltag-add.svg
+static\admin\img\tooltag-arrowright.svg
+static\admin\img\gis
+static\admin\img\gis\move_vertex_off.svg
+static\admin\img\gis\move_vertex_on.svg
+static\admin\js\actions.js
+static\admin\js\autocomplete.js
+static\admin\js\calendar.js
+static\admin\js\cancel.js
+static\admin\js\change_form.js
+static\admin\js\collapse.js
+static\admin\js\core.js
+static\admin\js\filters.js
+static\admin\js\inlines.js
+static\admin\js\jquery.init.js
+static\admin\js\nav_sidebar.js
+static\admin\js\popup_response.js
+static\admin\js\prepopulate.js
+static\admin\js\prepopulate_init.js
+static\admin\js\SelectBox.js
+static\admin\js\SelectFilter2.js
+static\admin\js\theme.js
+static\admin\js\urlify.js
+static\admin\js\admin
+static\admin\js\vendor
+static\admin\js\admin\DateTimeShortcuts.js
+static\admin\js\admin\RelatedObjectLookups.js
+static\admin\js\vendor\jquery
+static\admin\js\vendor\select2
+static\admin\js\vendor\xregexp
+static\admin\js\vendor\jquery\jquery.js
+static\admin\js\vendor\jquery\jquery.min.js
+static\admin\js\vendor\jquery\LICENSE.txt
+static\admin\js\vendor\select2\LICENSE.md
+static\admin\js\vendor\select2\select2.full.js
+static\admin\js\vendor\select2\select2.full.min.js
+static\admin\js\vendor\select2\i18n
+static\admin\js\vendor\select2\i18n\af.js
+static\admin\js\vendor\select2\i18n\ar.js
+static\admin\js\vendor\select2\i18n\az.js
+static\admin\js\vendor\select2\i18n\bg.js
+static\admin\js\vendor\select2\i18n\bn.js
+static\admin\js\vendor\select2\i18n\bs.js
+static\admin\js\vendor\select2\i18n\ca.js
+static\admin\js\vendor\select2\i18n\cs.js
+static\admin\js\vendor\select2\i18n\da.js
+static\admin\js\vendor\select2\i18n\de.js
+static\admin\js\vendor\select2\i18n\dsb.js
+static\admin\js\vendor\select2\i18n\el.js
+static\admin\js\vendor\select2\i18n\en.js
+static\admin\js\vendor\select2\i18n\es.js
+static\admin\js\vendor\select2\i18n\et.js
+static\admin\js\vendor\select2\i18n\eu.js
+static\admin\js\vendor\select2\i18n\fa.js
+static\admin\js\vendor\select2\i18n\fi.js
+static\admin\js\vendor\select2\i18n\fr.js
+static\admin\js\vendor\select2\i18n\gl.js
+static\admin\js\vendor\select2\i18n\he.js
+static\admin\js\vendor\select2\i18n\hi.js
+static\admin\js\vendor\select2\i18n\hr.js
+static\admin\js\vendor\select2\i18n\hsb.js
+static\admin\js\vendor\select2\i18n\hu.js
+static\admin\js\vendor\select2\i18n\hy.js
+static\admin\js\vendor\select2\i18n\id.js
+static\admin\js\vendor\select2\i18n\is.js
+static\admin\js\vendor\select2\i18n\it.js
+static\admin\js\vendor\select2\i18n\ja.js
+static\admin\js\vendor\select2\i18n\ka.js
+static\admin\js\vendor\select2\i18n\km.js
+static\admin\js\vendor\select2\i18n\ko.js
+static\admin\js\vendor\select2\i18n\lt.js
+static\admin\js\vendor\select2\i18n\lv.js
+static\admin\js\vendor\select2\i18n\mk.js
+static\admin\js\vendor\select2\i18n\ms.js
+static\admin\js\vendor\select2\i18n\nb.js
+static\admin\js\vendor\select2\i18n\ne.js
+static\admin\js\vendor\select2\i18n\nl.js
+static\admin\js\vendor\select2\i18n\pl.js
+static\admin\js\vendor\select2\i18n\ps.js
+static\admin\js\vendor\select2\i18n\pt-BR.js
+static\admin\js\vendor\select2\i18n\pt.js
+static\admin\js\vendor\select2\i18n\ro.js
+static\admin\js\vendor\select2\i18n\ru.js
+static\admin\js\vendor\select2\i18n\sk.js
+static\admin\js\vendor\select2\i18n\sl.js
+static\admin\js\vendor\select2\i18n\sq.js
+static\admin\js\vendor\select2\i18n\sr-Cyrl.js
+static\admin\js\vendor\select2\i18n\sr.js
+static\admin\js\vendor\select2\i18n\sv.js
+static\admin\js\vendor\select2\i18n\th.js
+static\admin\js\vendor\select2\i18n\tk.js
+static\admin\js\vendor\select2\i18n\tr.js
+static\admin\js\vendor\select2\i18n\uk.js
+static\admin\js\vendor\select2\i18n\vi.js
+static\admin\js\vendor\select2\i18n\zh-CN.js
+static\admin\js\vendor\select2\i18n\zh-TW.js
+static\admin\js\vendor\xregexp\LICENSE.txt
+static\admin\js\vendor\xregexp\xregexp.js
+static\admin\js\vendor\xregexp\xregexp.min.js
+static\assets\favicon
+static\assets\imagens
+static\assets\logo
+static\assets\�cones
+static\assets\favicon\Favicon 48px 1.png
+static\assets\favicon\Favicon 48px 2.png
+static\assets\favicon\Favicon 64px 1.png
+static\assets\favicon\Favicon 64px 2.png
+static\assets\favicon\Favicon 96px 1.png
+static\assets\favicon\Favicon 96px 2.png
+static\assets\imagens\Banner(2).png
+static\assets\imagens\Modal.png
+static\assets\imagens\galeria
+static\assets\imagens\populares
+static\assets\imagens\galeria\carina-nebula.png
+static\assets\imagens\populares\Foto 1.png
+static\assets\imagens\populares\Foto 2.png
+static\assets\imagens\populares\Foto 3.png
+static\assets\imagens\populares\Foto 4.png
+static\assets\imagens\populares\Foto 5.png
+static\assets\logo\Logo(2).png
+static\assets\�cones\1x
+static\assets\�cones\2x
+static\assets\�cones\1x\facebook.png
+static\assets\�cones\1x\favorite_outline.png
+static\assets\�cones\1x\Home - ativo.png
+static\assets\�cones\1x\Home - inativo.png
+static\assets\�cones\1x\instagram.png
+static\assets\�cones\1x\Mais curtidas - ativo.png
+static\assets\�cones\1x\Mais curtidas - inativo.png
+static\assets\�cones\1x\Mais vistas - ativo.png
+static\assets\�cones\1x\Mais vistas - inativo.png
+static\assets\�cones\1x\Novas - ativo.png
+static\assets\�cones\1x\Novas - inativo.png
+static\assets\�cones\1x\open_in_full.png
+static\assets\�cones\1x\search.png
+static\assets\�cones\1x\Surpreenda-me - ativo.png
+static\assets\�cones\1x\Surpreenda-me - inativo.png
+static\assets\�cones\1x\twitter.png
+static\assets\�cones\2x\facebook@2x.png
+static\assets\�cones\2x\favorite_outline.png
+static\assets\�cones\2x\Home - ativo.png
+static\assets\�cones\2x\Home - inativo.png
+static\assets\�cones\2x\instagram@2x.png
+static\assets\�cones\2x\Mais curtidas - ativo.png
+static\assets\�cones\2x\Mais curtidas - inativo.png
+static\assets\�cones\2x\Mais vistas - ativo.png
+static\assets\�cones\2x\Mais vistas - inativo.png
+static\assets\�cones\2x\Novas - ativo.png
+static\assets\�cones\2x\Novas - inativo.png
+static\assets\�cones\2x\open_in_full.png
+static\assets\�cones\2x\search.png
+static\assets\�cones\2x\Surpreenda-me - ativo.png
+static\assets\�cones\2x\Surpreenda-me - inativo.png
+static\assets\�cones\2x\twitter@2x.png
+static\styles\style.css
+templates\galeria
+templates\partials
+templates\shared
+templates\usuarios
+templates\galeria\buscar.html
+templates\galeria\imagem.html
+templates\galeria\index.html
+templates\partials\_alertas.html
+templates\partials\_footer.html
+templates\partials\_header.html
+templates\shared\base.html
+templates\usuarios\cadastro.html
+templates\usuarios\login.html
+"
